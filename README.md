@@ -1,4 +1,5 @@
 Restaurant Management System (Java Swing)
+
  Project Overview
 
 This Restaurant Management System is a desktop-based application developed using Java Swing in Apache NetBeans. The system is designed to manage restaurant operations efficiently by providing role-based access for Manager and Employee.
